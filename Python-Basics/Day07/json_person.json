@@ -1,0 +1,17 @@
+{
+    "name": "Sergiu",
+    "age": 29,
+    "country": "Moldova",
+    "languages": [
+        "romanian",
+        "english",
+        "italian",
+        "russian",
+        "german"
+    ],
+    "family": {
+        "mother": "Rodica",
+        "father": "Olimpiu",
+        "brother": "Leo"
+    }
+}
